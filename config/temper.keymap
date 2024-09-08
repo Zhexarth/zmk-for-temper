@@ -117,7 +117,7 @@
 
         left_bkt {
             bindings = <&kp LBKT>;
-            key-positions = <3>;
+            key-positions = <3 2>;
         };
 
         right_bkt {
